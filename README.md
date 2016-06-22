@@ -6,4 +6,4 @@
 
 * index.html 파일은 sketch.js 파일을 불러와 실행시키고, 웹브라우저는 sketch.js 파일에 의해 다양한 반응을 보여줍니다. 따라서 우리는 sketch.js 파일을 적절하게 수정하면 동적웹이 만들어지게 됩니다. 
 
-### [* mtinet.github.io/p5js](mtinet.github.io/p5js)를 참고하세요. 
+### *[mtinet.github.io/p5js](mtinet.github.io/p5js)를 참고하세요. 
